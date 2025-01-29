@@ -1,2 +1,5 @@
+backend.tf
+
+/.terraform
 /generated
 /pulled

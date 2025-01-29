@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except the gateway directory
+!api/outputs.tf
+!api/gateway/
+!api/gateway/*
